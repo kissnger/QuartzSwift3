@@ -4,4 +4,4 @@
 
 我个人这个跟他的区别是 我是按照苹果官方的 QuartzDemo 除了几个简单的我没有写
 
-/Users/massimo/github/QuartzSwift3/EBA19C89-180B-4230-992A-148AD1D278C6.png
+https://github.com/kissnger/QuartzSwift3/blob/master/EBA19C89-180B-4230-992A-148AD1D278C6.png
